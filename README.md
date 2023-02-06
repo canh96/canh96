@@ -15,10 +15,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffomagran&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 
 export const themes = {
-  default: {
-    title_color: "2f80ed",
-    icon_color: "4c71f2",
-    text_color: "434d58",
-    bg_color: "fffefe",
-    border_color: "e4e2e2",
+  date_night: {
+    title_color: "DA7885",
+    text_color: "E1B2A2",
+    icon_color: "BB8470",
+    border_color: "170F0C",
+    bg_color: "170F0C",
   },
