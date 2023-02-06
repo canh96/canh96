@@ -21,4 +21,4 @@ export const themes = {
     icon_color: "BB8470",
     border_color: "170F0C",
     bg_color: "170F0C",
-  },
+  }}
