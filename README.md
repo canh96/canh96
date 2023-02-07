@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Dong Hyun's portfolior&portfolior&fontSize=70&Color=Red)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Dong Hyun's portfolior&portfolior&fontSize=70)
 
 
 ### Hi there 👋
