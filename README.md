@@ -4,10 +4,10 @@
 ### Hi there 👋
 
  - Name : Can .DH Kang (Korean Name : Kang Dong Hyun)
-Email : ehdgus662@google.com
+ - Email : ehdgus662@google.com
 
  - I'm currently studing to get a job about Big Data
-   o major - Analysis of Big Data Using Python
+ - o major - Analysis of Big Data Using Python
    
 
 
