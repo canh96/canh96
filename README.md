@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Dong%20Hyun's%20portfolio&20fontSize=70&fontColor=white" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Dong%20Hyun's%20portfolio&20fontSize=70&fontColor=000000" />
 
 
 ### Hi there 👋
